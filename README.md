@@ -1,4 +1,2 @@
-# GameWebsite
-A simple games website to host games such as 
-- A wordle clone/a word game
-- sudoko / a math game (kindly requested by my wife)
+# My Personal Homepage 
+A page to host my personal projects, work experience and how to contact me
